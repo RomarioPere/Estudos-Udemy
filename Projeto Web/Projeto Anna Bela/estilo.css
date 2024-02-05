@@ -1,0 +1,49 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  background: url(arquivos-necessarios-projeto-anna-bella/fundo.png);
+  max-width: 900px;
+  margin: auto;
+  
+}
+
+#principal {
+  width: 900px;
+  padding-top: 20px;
+}
+
+#menu {
+  background: #c5c5b2;
+  padding: 20px;
+}
+
+#menu > a {
+text-decoration: none;
+color: rgb(84, 109, 84);
+font-size: 20px;
+margin: 8px;
+font-weight: bold;
+padding: 5px;
+text-transform: uppercase;
+}
+
+.corpo {
+  background-color: white;
+  max-width: 900px;
+  border-radius: 4px;
+}
+
+.corpo > p {
+  padding-left: 20px;
+  padding-bottom: 20px;
+}
+
+.corpo h1 {
+  padding-top: 20px;
+  padding-left: 20px;
+  color: rgb(48, 61, 27);
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+}
